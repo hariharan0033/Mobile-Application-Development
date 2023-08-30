@@ -35,7 +35,7 @@ Registeration Number :
 ```
 
 ## OUTPUT
-
+![1](lifecyclemethods/LifeCycleMethod_1.jpg)
 
 
 
