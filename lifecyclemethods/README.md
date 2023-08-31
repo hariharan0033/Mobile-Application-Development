@@ -123,7 +123,8 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 ## OUTPUT
-![1](lifecyclemethods/LifeCycleMethod_1.jpg)
+![1](LifeCycleMethod_1.jpg)
+
 
 
 
