@@ -124,7 +124,8 @@ public class MainActivity extends AppCompatActivity {
 ```
 ## OUTPUT
 ![1](LifeCycleMethod_1.jpg)
-
+![2](LifeCycleMethod_2.jpg)
+![3](LifeCycleMethod_3.jpg)
 
 
 
