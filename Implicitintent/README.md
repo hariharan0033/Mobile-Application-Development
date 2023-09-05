@@ -107,11 +107,12 @@ public class MainActivity extends AppCompatActivity {
 ```
 ## OUTPUT
 
-![1](ImplicitIndent_1.jpg)
+<img src="https://github.com/hariharan0033/Mobile-Application-Development/assets/125666185/596de723-2b2b-4b96-8313-3901a348e7d8" alt="ImplicitIndent_1" width="20%" height="auto">
 
-![2](ImplicitIndent_2.jpg)
+<img src="https://github.com/hariharan0033/Mobile-Application-Development/assets/125666185/8dea86ac-361d-43c9-84d8-ed36e89fb70e" alt="ImplicitIndent_2" width="20%" height="auto">
 
-![3](ImplicitIndent_3.jpg)
+<img src="https://github.com/hariharan0033/Mobile-Application-Development/assets/125666185/97abed17-1cc8-46fa-93ab-96b1e8742a79" alt="ImplicitIndent_3" width="20%" height="auto">
+
 
 
 
