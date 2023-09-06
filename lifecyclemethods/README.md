@@ -125,9 +125,20 @@ public class MainActivity extends AppCompatActivity {
 ## OUTPUT
 
 
-![Alt Text](https://github.com/hariharan0033/Mobile-Application-Development/blob/main/lifecyclemethods/LifeCycleMethod_1.jpg)
+![LifeCycleMethod_1](https://github.com/hariharan0033/Mobile-Application-Development/assets/125666185/b32ed47c-f82e-4e53-8cb2-44fccfa5cd27)
+
+![LifeCycleMethod_2](https://github.com/hariharan0033/Mobile-Application-Development/assets/125666185/7979d0cd-1762-4012-a599-6bf8842f29c7)
+
+![LifeCycleMethod_3](https://github.com/hariharan0033/Mobile-Application-Development/assets/125666185/baa185e0-e033-4d3a-9bcd-ba6de7ca0f54)
 
 
+![LifeCycleMethod_4](https://github.com/hariharan0033/Mobile-Application-Development/assets/125666185/b01a475b-4570-4ebd-8e99-817718c541b9)
+
+![LifeCycleMethod_5](https://github.com/hariharan0033/Mobile-Application-Development/assets/125666185/7ec9fac4-af47-4094-9af0-55d9b9d32227)
+
+![LifeCycleMethod_6](https://github.com/hariharan0033/Mobile-Application-Development/assets/125666185/bfda1577-9dee-464e-8b6a-ef864c55bcca)
+
+![LifeCycleMethod_7](https://github.com/hariharan0033/Mobile-Application-Development/assets/125666185/3ad4b95a-46d7-482c-955f-5cb8adc424f7)
 
 
 ## RESULT
