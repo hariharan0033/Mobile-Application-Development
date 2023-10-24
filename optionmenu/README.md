@@ -94,7 +94,7 @@ Registeration Number : 212221040052
 ```
 ## OUTPUT:
 
-![image](https://github.com/NaveenKumar-008/Mobile-Application-Development/assets/128135244/77a1c2a1-f394-4c6e-a41e-47c6a431c8db)  
+![image](https://github.com/NaveenKumar-008/Mobile-Application-Development/assets/128135244/77a1c2a1-f394-4c6e-a41e-47c6a431c8db)
 ![image](https://github.com/NaveenKumar-008/Mobile-Application-Development/assets/128135244/16b3bf1e-d17c-4ac4-8885-e43527f7bc4c)  
 
 
